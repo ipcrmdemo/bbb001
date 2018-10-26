@@ -16,7 +16,7 @@ TYou can run the service locally using the following from the command:
 ```
 $ ./mvnw spring-boot:run
 ```
-test
+test.
 ### Run testsf
 
 This service comes with some rudimentary tests as a good starting
